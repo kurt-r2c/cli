@@ -1,4 +1,4 @@
-# npm - a JavaScript package manager
+# npm - a JavaScript package manager forked by r2c
 
 [![npm version](https://img.shields.io/npm/v/npm.svg)](https://npm.im/npm)
 [![license](https://img.shields.io/npm/l/npm.svg)](https://npm.im/npm)
